@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+google-generativeai
+youtube-transcript-api
+faiss-cpu
+tiktoken
+python-dotenv
+ipykernel
+sentence-transformers
